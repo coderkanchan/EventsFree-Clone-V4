@@ -38,7 +38,7 @@
 header {
     height: 372px;
     background-image:
-        linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(/assets/images/png/img1.png);
+        linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(assets/images/png/img1.png);
     background-size: cover;
     background-position: center;
     position: relative;
